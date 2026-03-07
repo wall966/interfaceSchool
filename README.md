@@ -19,7 +19,7 @@ Demonstrate how simple technology can support learning
 🖥️ Application Interface
 
 
-/Image/app-interface.png
+![Application Interface](Images/app-interface.png)
 
 ⚙️ Technologies Used
 
