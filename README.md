@@ -18,11 +18,8 @@ Demonstrate how simple technology can support learning
 
 🖥️ Application Interface
 
-(Insert here a screenshot of the interface after running the project)
 
-Example:
-
-/Images/app-interface.png
+/Image/app-interface.png
 
 ⚙️ Technologies Used
 
