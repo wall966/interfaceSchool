@@ -1,51 +1,34 @@
-🌍 Project Overview
+🌍 Présentation du projet
 
-Adquirindo conhecimento para a vida! (Acquiring Knowledge for Life) is a simple educational application interface developed using HTML and CSS.
+Acquérir des connaissances pour la vie ! (Adquirindo conhecimento para a vida!) est une interface simple d’application éducative développée en HTML et CSS.
 
-The goal of this project is to simulate a learning platform designed for teachers working in small villages with limited access to educational resources and technology, helping them teach basic subjects in remote regions.
+L’objectif de ce projet est de simuler une plateforme d’apprentissage destinée aux enseignants travaillant dans des villages isolés, avec un accès limité aux ressources éducatives et aux technologies, afin de les aider à enseigner des matières de base dans des régions reculées.
 
-The interface was designed to be simple, intuitive, and accessible, allowing teachers with minimal computer experience to use it easily.
+L’interface a été conçue pour être simple, intuitive et accessible, permettant à des enseignants ayant peu d’expérience en informatique de l’utiliser facilement.
 
-🎯 Project Goals
+🎯 Objectifs du projet
+Soutenir les enseignants dans les zones rurales ou isolées
+Fournir un accès à des ressources éducatives de base
+Encourager l’intérêt des enfants pour l’éducation
+Montrer comment une technologie simple peut soutenir l’apprentissage
+🖥️ Interface de l’application
 
-Support teachers in rural or remote areas
+(Vous pouvez garder votre image telle quelle)
 
-Provide access to basic educational materials
-
-Encourage children's interest in education
-
-Demonstrate how simple technology can support learning
-
-🖥️ Application Interface
-
-
-![Application Interface](Images/app-interface.png)
-
-⚙️ Technologies Used
-
-HTML5 – Application structure
-
-CSS3 – Layout and design
-
-Visual Studio Code – Development environment
-
-✨ Features
-
-Clean and simple interface
-
-Educational sections for:
-
-Portuguese
-
-Mathematics
-
-Teacher support area
-
-Mobile-style layout
-
-Easy navigation
-
-📁 Project Structure
+![Interface de l'application](Images/app-interface.png)
+⚙️ Technologies utilisées
+HTML5 – Structure de l’application
+CSS3 – Mise en page et design
+Visual Studio Code – Environnement de développement
+✨ Fonctionnalités
+Interface simple et épurée
+Sections éducatives pour :
+Portugais
+Mathématiques
+Espace d’accompagnement pour les enseignants
+Design inspiré du mobile
+Navigation facile
+📁 Structure du projet
 project-folder
 │
 ├── index.html
