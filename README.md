@@ -13,7 +13,7 @@ Encourager l’intérêt des enfants pour l’éducation
 Montrer comment une technologie simple peut soutenir l’apprentissage
 🖥️ Interface de l’application
 
-(Vous pouvez garder votre image telle quelle)
+
 
 ![Interface de l'application](Images/app-interface.png)
 ⚙️ Technologies utilisées
