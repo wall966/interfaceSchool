@@ -1,6 +1,6 @@
 🌍 Présentation du projet
 
-Acquérir des connaissances pour la vie ! (Adquirindo conhecimento para a vida!) est une interface simple d’application éducative développée en HTML et CSS.
+Acquérir des connaissances pour la vie ! (Adquirindo conhecimento para a vida!) est une interface simple d’application éducative développée en HTML et CSS.(Projet complet avec méthodologie Project_End.pdf)
 
 L’objectif de ce projet est de simuler une plateforme d’apprentissage destinée aux enseignants travaillant dans des villages isolés, avec un accès limité aux ressources éducatives et aux technologies, afin de les aider à enseigner des matières de base dans des régions reculées.
 
