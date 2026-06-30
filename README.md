@@ -1,36 +1,54 @@
-🌍 Présentation du projet
+# 🌍 Project Overview
 
-Acquérir des connaissances pour la vie ! (Adquirindo conhecimento para a vida!) est une interface simple d’application éducative développée en HTML et CSS.(Projet complet avec méthodologie Project_End.pdf)
+*Acquérir des connaissances pour la vie! (Acquiring knowledge for life!)* is a simple educational application interface developed using **HTML and CSS** (complete project with methodology in `Project_End.pdf`).
 
-L’objectif de ce projet est de simuler une plateforme d’apprentissage destinée aux enseignants travaillant dans des villages isolés, avec un accès limité aux ressources éducatives et aux technologies, afin de les aider à enseigner des matières de base dans des régions reculées.
+The goal of this project is to simulate a learning platform designed for teachers working in isolated villages, where access to educational resources and technology is limited. It aims to help them teach basic subjects in remote areas.
 
-L’interface a été conçue pour être simple, intuitive et accessible, permettant à des enseignants ayant peu d’expérience en informatique de l’utiliser facilement.
+The interface was designed to be **simple, intuitive, and accessible**, allowing teachers with little or no computer experience to use it easily.
 
-🎯 Objectifs du projet
-Soutenir les enseignants dans les zones rurales ou isolées
-Fournir un accès à des ressources éducatives de base
-Encourager l’intérêt des enfants pour l’éducation
-Montrer comment une technologie simple peut soutenir l’apprentissage
-🖥️ Interface de l’application
+---
 
+# 🎯 Project Goals
 
+- Support teachers in rural or remote areas  
+- Provide access to basic educational resources  
+- Encourage children’s interest in education  
+- Demonstrate how simple technology can support learning  
 
-![Interface de l'application](Images/app-interface.png)
-⚙️ Technologies utilisées
-HTML5 – Structure de l’application
-CSS3 – Mise en page et design
-Visual Studio Code – Environnement de développement
-✨ Fonctionnalités
-Interface simple et épurée
-Sections éducatives pour :
-Portugais
-Mathématiques
-Espace d’accompagnement pour les enseignants
-Design inspiré du mobile
-Navigation facile
-📁 Structure du projet
-project-folder
+---
+
+# 🖥️ Application Interface
+
+![Application Interface](Images/app-interface.png)
+
+---
+
+# ⚙️ Technologies Used
+
+- HTML5 – Application structure  
+- CSS3 – Layout and design  
+- Visual Studio Code – Development environment  
+
+---
+
+# ✨ Features
+
+- Clean and simple interface  
+- Educational sections including:
+  - Portuguese
+  - Mathematics  
+- Teacher support area  
+- Mobile-inspired design  
+- Easy navigation  
+
+---
+
+# 📁 Project Structure
+
+```
+project-folder/
 │
 ├── index.html
 ├── style.css
 └── README.md
+```
